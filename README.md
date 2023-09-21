@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behlulbozal" alt="behlulbozal" /></a> </p>
 
-- 🔭 I’m currently working on [Vartur.com](https://www.vartur.com/)
+- 🔭 I’m currently working on [careinturkey.com](https://www.careinturkey.com/)
 
-- 🌱 I’m currently learning **Rust Language**
+- 🌱 I’m currently learning **GO Lang**
 
-- 👯 I’m looking to collaborate on **WeeKit**
+- 👯 I’m looking to collaborate on **PKit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/behlulbozal](https://github.com/behlulbozal)
 
-- 💬 Ask me about **Flutter, Vue.js, Laravel**
+- 💬 Ask me about **Flutter, Vue.js, Laravel, ZOHO CRM**
 
 - 📫 How to reach me **behlulbozal@gmail.com**
 
